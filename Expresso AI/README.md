@@ -10,7 +10,6 @@ Welcome to Expresso AI, an AI-powered platform for generating text and image con
 ### Text and Image
 
 ![2](https://github.com/Arunkumar132003/Web-development/assets/96881025/1b703f16-c203-44b9-932c-fa6c4e999b73)
-
 ![3](https://github.com/Arunkumar132003/Web-development/assets/96881025/5efd30ae-4e68-44bf-8121-ebb898b69aac)
 
 ## Features
